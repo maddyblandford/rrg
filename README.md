@@ -12,3 +12,7 @@ I have actually never been to Red River Gorge, but the place I have heard the mo
 5. Add one photograph.
 6. Add your name and the sources you used for reference.
 ```
+
+## Part III is done!
+
+[https://maddyblandford.github.io/rrg/](https://maddyblandford.github.io/rrg/) works as expected!
